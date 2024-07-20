@@ -4,18 +4,18 @@ Welcome to the ieee-project wiki!
 
 >>PROJECT NAME:
 
-       HACKHOUNDS
+         HACKHOUNDS
 
 
 >>PARTICIPANTS-
 
-             Aryan Shukla-22306
-
-             Sidharth Bhole-22309
+         Aryan Shukla-22306
+              
+         Sidharth Bhole-22309
              
-             Param Joshi-22332
+         Param Joshi-22332
              
-             Gauravi Mutha-22350
+         Gauravi Mutha-22350
 
 >>ABOUT THE WEBSITE 
 
