@@ -4,7 +4,8 @@ Welcome to the ieee-project wiki!
 PROJECT NAME:
 HACKHOUNDS
 
-PARTICIPANTS-Aryan Shukla-22306
+PARTICIPANTS-
+             Aryan Shukla-22306
 
              Sidharth Bhole-22309
              
@@ -12,7 +13,7 @@ PARTICIPANTS-Aryan Shukla-22306
              
              Gauravi Mutha-22350
 
->>ABOUT THE WEBSITE :
+>>ABOUT THE WEBSITE 
 
  The website comprises of everything from admissions and human resources to information bulletins and access to timetables. PICT website is fit for purpose in terms of content, presentation and functionality of the courses it has to offer
 The college website is a vital point of contact for enrolled students and also graduate alumni. As such, it is an essential part of the college infrastructure and can handle large amounts of traffic and data. 
@@ -55,6 +56,7 @@ Further, as u scroll down, u can find various other details like our faculty mem
 
 
 >>TECHSTACK
+
 
  >JavaScript:
 
