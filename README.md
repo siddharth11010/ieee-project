@@ -19,7 +19,7 @@ The college website is a vital point of contact for enrolled students and also g
 The website is a dedicated space where we can put all the information that matters to students looking for a college like PICT.
 The website consists of the following features including:
 
- NOTICES- its purpose is to provide a centralized platform for disseminating essential information, including updates on administrative matters, academic schedules, campus events, and emergency alerts. It ensures that users have easy and immediate access to important announcements.
+ >NOTICES- its purpose is to provide a centralized platform for disseminating essential information, including updates on administrative matters, academic schedules, campus events, and emergency alerts. It ensures that users have easy and immediate access to important announcements.
 
  ACHIEVEMENTS-The purpose of an achievements page is to celebrate and publicize the accomplishments of the institution, its students, faculty, and staff, which enhance the college’s reputation and inspire the community.
 
@@ -39,7 +39,7 @@ The website consists of the following features including:
 Further, as u scroll down, u can find various other details like our faculty members, important events that take place in the college, academic calendar of the college, the official college magazine 
 
 
-TECHSTACK
+>>TECHSTACK
 
  JavaScript: JavaScript (JS) is a lightweight interpreted or JIT-compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.zip.sha256
 
