@@ -1,11 +1,11 @@
 # ieee-project
 Welcome to the ieee-project wiki!
 
-<<PROJECT NAME:
+>>PROJECT NAME:
 
 HACKHOUNDS
 
-<<PARTICIPANTS-
+>>PARTICIPANTS-
 
              Aryan Shukla-22306
 
