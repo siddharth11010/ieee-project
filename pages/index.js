@@ -19,7 +19,7 @@ export default function Home() {
           <a href="#">DEPARTMENTS</a>
           <a href="#">PLACEMENTS</a>
           <a href="#">ADMISSIONS</a>
-          <a href="#">MIS LOGIN</a>
+          <a href="https://portal.vmedulife.com/public/auth/#/login/pict-pune">MIS LOGIN</a>
           </nav>
           <div className={styles.logo}>
           <Image src="/assets/images/pict_logo.png" alt="PICT Logo" fill/>
@@ -55,6 +55,9 @@ export default function Home() {
           </div>
         </div>
       </main>
+      <div className={styles.notice}>
+          Notices and announcements
+      </div>
     </div>
   );
 }
